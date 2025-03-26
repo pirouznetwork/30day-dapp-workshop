@@ -1,7 +1,3 @@
-Here’s the revised document focusing on **Prom Blockchain, Solidity, Svelte, and AI integration**:
-
----
-
 # **30-Day Blockchain Workshop: Building AI-Enhanced dApps with Solidity, Svelte, and Prom Blockchain**
 
 ## **Project Description**  
